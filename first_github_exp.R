@@ -1,5 +1,6 @@
 #starting with GitHub
 
 library(ggplot2)
-library(matrix)
 library(dplyr)
+
+x <- c(1:3)
